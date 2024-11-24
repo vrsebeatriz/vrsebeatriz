@@ -1,6 +1,6 @@
 **Olá! Eu sou Beatriz** 👋  
 
-Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia e desenvolvimento, e aqui você encontrará projetos que refletem meu aprendizado.
+Bem-vindo ao meu perfil no GitHub! Sou apaixonada por tecnologia e desenvolvimento, e aqui você encontrará projetos que refletem meu aprendizado.
 
 ---
 
