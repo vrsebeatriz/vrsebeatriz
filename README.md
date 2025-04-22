@@ -4,13 +4,6 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonada por tecnologia e desenvolvimen
 
 ---
 
-**Sobre Mim** 🚀  
-- 🎓 **Estudante de Ciência da Computação**.  
-- 🌱 Estou aprendendo sobre **React**.  
-- ⚡ Gosto de resolver problemas.  
-
----
-
 **Tecnologias que Utilizo** 🛠️  
 - **Linguagens**: JavaScript, Python, C, C++
 - **Ferramentas e Frameworks**: React, Node.js 
