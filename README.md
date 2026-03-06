@@ -13,7 +13,7 @@ Estudante de Ciência da Computação | Desenvolvedora Full Stack
 ## 👩‍💻 Sobre mim
 
 🎓 Estudante de Ciência da Computação – UERN  
-💻 Desenvolvedora focada em **aplicações web modernas**  
+💻 Desenvolvedora focada em **aplicações full stack**  
 🧠 Pesquisadora em **modelagem de conhecimento utilizando ontologias**  
 🤖 Desenvolvendo um **chatbot para apoio ao diagnóstico clínico de crianças autistas**
 
