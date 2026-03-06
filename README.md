@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Beatriz</h1>
 
 <p align="center">
-Estudante de Ciência da Computação | Desenvolvedora Web
+Estudante de Ciência da Computação | Desenvolvedora Full Stack
 </p>
 
 <p align="center">
