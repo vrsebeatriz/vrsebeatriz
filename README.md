@@ -1,20 +1,70 @@
-**Olá! Eu sou Beatriz** 👋  
+<h1 align="center">Olá, eu sou a Beatriz </h1>
 
-Bem-vindo ao meu perfil no GitHub! Sou apaixonada por tecnologia e desenvolvimento, e aqui você encontrará projetos que refletem meu aprendizado.
+<p align="center">
+Estudante de Ciência da Computação | Desenvolvedora Web
+</p>
 
----
-
-**Tecnologias que Utilizo** 🛠️  
-- **Linguagens**: JavaScript, Python, C, C++
-- **Ferramentas e Frameworks**: React, Node.js 
-- **Banco de Dados**: MySQL, MongoDB, PostGreeSQL
-
----
-
-**Como Entrar em Contato** 📬  
-- **Email**: anabaraujo009@gmail.com
-- **LinkedIn**: www.linkedin.com/in/beatriz-araújo-381b2b249 
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+</p>
 
 ---
 
-💡 *"A tecnologia é a arte de transformar sonhos em realidade."*
+## Sobre mim
+
+🎓 Estudante de Ciência da Computação na UERN  
+💻 Desenvolvedora focada em aplicações **web modernas**  
+🧠 Pesquisadora em **modelagem de conhecimento utilizando ontologias**  
+🤖 Desenvolvendo um **chatbot para apoio ao diagnóstico clínico de crianças autistas**
+
+---
+
+## 🚀 Tecnologias
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,nodejs,python" />
+</p>
+
+### Banco de Dados
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+### Ferramentas
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vrsebeatriz&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrsebeatriz&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Contato
+
+📧 Email: **anabaraujo009@gmail.com**
+
+💼 LinkedIn  
+https://www.linkedin.com/in/beatriz-araujo-381b2b249
+
+---
+
+<p align="center">
+✨ Sempre aprendendo e construindo novos projetos ✨
+</p>
