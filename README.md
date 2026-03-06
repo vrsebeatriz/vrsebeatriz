@@ -45,16 +45,6 @@ Estudante de Ciência da Computação | Desenvolvedora Web
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
 </p>
 
----
-
-## 🐍 Contribuições
-
-<p align="center">
-  <img src="https://github.com/vrsebeatriz/vrsebeatriz/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 ## 📫 Contato
 
 📧 **Email:**  
