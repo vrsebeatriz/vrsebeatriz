@@ -47,14 +47,10 @@ Estudante de Ciência da Computação | Desenvolvedora Web
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🐍 Contribuições
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vrsebeatriz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrsebeatriz&layout=compact&theme=tokyonight"/>
+  <img src="https://github.com/vrsebeatriz/vrsebeatriz/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
