@@ -1,19 +1,19 @@
-<h1 align="center">Olá, eu sou a Beatriz </h1>
+<h1 align="center">Olá, eu sou a Beatriz</h1>
 
 <p align="center">
 Estudante de Ciência da Computação | Desenvolvedora Web
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </p>
 
 ---
 
-## Sobre mim
+## 👩‍💻 Sobre mim
 
-🎓 Estudante de Ciência da Computação na UERN  
-💻 Desenvolvedora focada em aplicações **web modernas**  
+🎓 Estudante de Ciência da Computação – UERN  
+💻 Desenvolvedora focada em **aplicações web modernas**  
 🧠 Pesquisadora em **modelagem de conhecimento utilizando ontologias**  
 🤖 Desenvolvendo um **chatbot para apoio ao diagnóstico clínico de crianças autistas**
 
@@ -50,20 +50,21 @@ Estudante de Ciência da Computação | Desenvolvedora Web
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vrsebeatriz&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api?username=vrsebeatriz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrsebeatriz&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrsebeatriz&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 📫 Contato
 
-📧 Email: **anabaraujo009@gmail.com**
+📧 **Email:**  
+anabaraujo009@gmail.com
 
-💼 LinkedIn  
+💼 **LinkedIn**  
 https://www.linkedin.com/in/beatriz-araujo-381b2b249
 
 ---
