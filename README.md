@@ -54,7 +54,3 @@ anabaraujo009@gmail.com
 https://www.linkedin.com/in/beatriz-araujo-381b2b249
 
 ---
-
-<p align="center">
-✨ Sempre aprendendo e construindo novos projetos ✨
-</p>
