@@ -5,7 +5,7 @@
 <h3 align="center">Estudante de Ciência da Computação | Desenvolvedora Full Stack</h3>
 
 <div align="center">
-  <a href="www.linkedin.com/in/beatriz-araújo-381b2b249" target="_blank">
+  <a href="https://www.linkedin.com/in/beatriz-araújo-381b2b249" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Beatriz" />
   </a>
   <a href="mailto:anabaraujo009@gmail.com" target="_blank">
@@ -50,7 +50,7 @@ Sou estudante de Ciência da Computação na **UERN** e desenvolvedora com foco 
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vrsebeatriz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vrsebeatriz&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrsebeatriz&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Linguagens mais utilizadas" />
 </div>
 
