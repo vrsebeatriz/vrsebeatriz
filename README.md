@@ -5,7 +5,7 @@
 <h3 align="center">Estudante de Ciência da Computação | Desenvolvedora Full Stack</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/beatriz-araujo-381b2b249" target="_blank">
+  <a href="www.linkedin.com/in/beatriz-araújo-381b2b249" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Beatriz" />
   </a>
   <a href="mailto:anabaraujo009@gmail.com" target="_blank">
