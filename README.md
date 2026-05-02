@@ -17,20 +17,20 @@
 
 ## Sobre mim
 
-Sou estudante do último semestre de Ciência da Computação na **UERN** e atuo no desenvolvimento de soluções de software de ponta a ponta. Meu foco está na intersecção entre engenharia de software, pesquisa acadêmica e o desenvolvimento de tecnologias com impacto social real.
+Sou estudante do último semestre de Ciência da Computação na **UERN** e atuo no desenvolvimento de soluções de software de ponta a ponta. Além da tecnologia, possuo experiência no setor de beleza, unindo criatividade e técnica em diferentes frentes de atuação.
 
 - Graduanda em **Ciência da Computação** pela Universidade do Estado do Rio Grande do Norte (UERN).
-- Experiência em desenvolvimento **Full Stack e Mobile**, construindo aplicações robustas com foco em **React Native, TypeScript, Node.js e Java**.
-- Pesquisadora ativa nas áreas de **Inteligência Artificial aplicada à saúde** (Deep Learning, NLP e predição de séries clínicas) e **Cibersegurança** (análise de malware e desofuscação de código).
-- Atualmente desenvolvendo um **chatbot para apoio ao diagnóstico clínico de crianças autistas** e explorando Modelagem de Conhecimento utilizando Ontologias e extensões OWL/Turtle.
+- Experiência em desenvolvimento **Full Stack e Mobile**, com foco em **React Native, TypeScript, Node.js e Java**.
+- Pesquisadora nas áreas de **Inteligência Artificial aplicada à saúde** e **Cibersegurança**.
+- Atualmente desenvolvendo um **chatbot para apoio ao diagnóstico clínico de crianças autistas**.
 
 <br/>
 
-## Principais Projetos e Pesquisas
+## Principais Projetos
 
-- **[Amparo](#)**: Aplicativo focado em informática em saúde, desenvolvido para o ecossistema mobile utilizando React Native e Expo.
-- **[CypherGuard AI](#)**: Projeto focado em desofuscação de código e análise de cibersegurança impulsionado por Inteligência Artificial.
-- **[TaskFlow Pro API](#)**: API de alta performance desenvolvida para o gerenciamento eficiente de tarefas.
+- **[Portfólio de Maquiadora](#)**: Espaço dedicado à exposição de trabalhos artísticos e profissionais na área da beleza, destacando técnicas de visagismo e atendimento personalizado.
+- **[Web Portfólio](#)**: Website pessoal desenvolvido para centralizar meus projetos acadêmicos, experiências em engenharia de software e competências técnicas.
+- **[CypherGuard AI](#)**: Projeto de desofuscação de código e análise de cibersegurança utilizando Inteligência Artificial.
 
 <br/>
 
@@ -49,17 +49,10 @@ Sou estudante do último semestre de Ciência da Computação na **UERN** e atuo
 
 <br/>
 
-## Estatísticas do GitHub e Produtividade
+## Produtividade no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vrsebeatriz&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vrsebeatriz&theme=tokyonight&hide_border=true" width="48%" alt="Estatísticas de Produtividade no GitHub" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vrsebeatriz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" width="60%" alt="Gráfico de Linguagens mais utilizadas" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vrsebeatriz&theme=tokyonight&hide_border=true" width="100%" alt="Estatísticas de Produtividade no GitHub" />
 </div>
 
 <br/>
