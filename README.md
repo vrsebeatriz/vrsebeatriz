@@ -52,14 +52,14 @@ Sou estudante do último semestre de Ciência da Computação na **UERN** e atuo
 ## Estatísticas do GitHub e Produtividade
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vrsebeatriz&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vrsebeatriz&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vrsebeatriz&theme=tokyonight&hide_border=true" width="48%" alt="Estatísticas de Produtividade no GitHub" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vrsebeatriz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%" alt="Gráfico de Linguagens mais utilizadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vrsebeatriz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" width="60%" alt="Gráfico de Linguagens mais utilizadas" />
 </div>
 
 <br/>
