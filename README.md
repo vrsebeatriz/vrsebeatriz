@@ -64,11 +64,11 @@ Computer Science student at **UERN** (final semester), building production-grade
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vrsebeatriz&theme=github-dark-blue&hide_border=true&background=0D1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9)
+![GitHub Streak](https://streak-stats.demolab.com?user=vrsebeatriz&theme=dark&hide_border=true&background=0D1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=c9d1d9&dates=c9d1d9&sideNums=c9d1d9)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vrsebeatriz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=6e40c9&title_color=6e40c9&text_color=c9d1d9&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vrsebeatriz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=6e40c9&title_color=6e40c9&text_color=c9d1d9&include_all_commits=true&count_private=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vrsebeatriz&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6e40c9&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vrsebeatriz&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6e40c9&text_color=c9d1d9&cache_seconds=1800&langs_count=6)
 
 </div>
 
