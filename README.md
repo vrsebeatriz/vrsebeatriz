@@ -1,62 +1,87 @@
 <div align="center">
-  <img height="150" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Olá,%20eu%20sou%20a%20Beatriz&fontSize=45&animation=fadeIn" />
+
+```
+██████╗ ███████╗ █████╗ ████████╗██████╗ ██╗███████╗
+██╔══██╗██╔════╝██╔══██╗╚══██╔══╝██╔══██╗██║╚══███╔╝
+██████╔╝█████╗  ███████║   ██║   ██████╔╝██║  ███╔╝ 
+██╔══██╗██╔══╝  ██╔══██║   ██║   ██╔══██╗██║ ███╔╝  
+██████╔╝███████╗██║  ██║   ██║   ██║  ██║██║███████╗
+╚═════╝ ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚══════╝
+```
+
+### Software Engineer · Full Stack & Mobile · AI Researcher
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-araújo-381b2b249)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anabaraujo009@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/vrsebeatriz?style=flat-square&color=6e40c9&label=followers)](https://github.com/vrsebeatriz)
+
 </div>
-
-<h3 align="center">Software Engineer Student</h3>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/beatriz-araújo-381b2b249" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Beatriz" />
-  </a>
-  <a href="mailto:anabaraujo009@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Beatriz" />
-  </a>
-</div>
-
-<br/>
-
-## Sobre mim
-
-Sou estudante do último semestre de Ciência da Computação na **UERN** e atuo no desenvolvimento de soluções Full Stack e Mobile. Além da atuação técnica em Engenharia de Software, desenvolvo pesquisas em Inteligência Artificial e Cibersegurança.
-
-- Graduanda em **Ciência da Computação** pela Universidade do Estado do Rio Grande do Norte.
-- Desenvolvedora com experiência em **React Native, TypeScript, Node.js e Java**.
-- Pesquisadora em **Deep Learning e NLP** aplicados à saúde e análise de malware.
-
-<br/>
-
-## Projetos em Destaque
-
-- **[CypherGuard AI](#)**: Solução de cibersegurança que utiliza Inteligência Artificial para desofuscação de código e análise de ameaças.
-- **[TaskFlow Pro API](#)**: API de alta performance desenvolvida para o gerenciamento eficiente e escalável de fluxos de tarefas.
-- **[Web Portfólio - Beauty](#)**: Website profissional dedicado à exposição de trabalhos artísticos na área da beleza, unindo técnicas de visagismo com desenvolvimento web moderno.
-
-<br/>
-
-## Tecnologias e Ferramentas
-
-<div align="center">
-  <h3>Frontend & Mobile</h3>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" alt="Frontend Skills" />
-  
-  <h3>Backend & Research</h3>
-  <img src="https://skillicons.dev/icons?i=java,nodejs,python" alt="Backend Skills" />
-  
-  <h3>Banco de Dados & Infra</h3>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,figma,vscode" alt="Database and Tools Skills" />
-</div>
-
-<br/>
-
-## Produtividade no GitHub
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vrsebeatriz&theme=tokyonight&hide_border=true" width="100%" alt="Estatísticas de Produtividade no GitHub" />
-</div>
-
-<br/>
 
 ---
+
+## About
+
+Computer Science student at **UERN** (final semester), building production-grade Full Stack and Mobile solutions while conducting research at the intersection of **Artificial Intelligence** and **Cybersecurity**.
+
+- 🎓 B.Sc. Computer Science — Universidade do Estado do Rio Grande do Norte
+- 💻 Engineering with **React Native · TypeScript · Node.js · Java**
+- 🔬 Researching **Deep Learning & NLP** applied to healthcare and malware analysis
+- 🔐 Developing AI-driven tools for cybersecurity threat analysis
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**CypherGuard AI**](#) | AI-powered cybersecurity solution for code deobfuscation and threat analysis | Python · Deep Learning |
+| [**TaskFlow Pro API**](#) | High-performance API for scalable task flow management | Node.js · PostgreSQL |
+| [**Web Portfolio – Beauty**](#) | Professional website combining visagism techniques with modern web development | React · TypeScript |
+
+---
+
+## Tech Stack
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend & AI Research**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Data & Infrastructure**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## GitHub Activity
+
 <div align="center">
-  <i>"A tecnologia move o mundo, mas são as pessoas que desenvolvem a tecnologia."</i>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vrsebeatriz&theme=github-dark-blue&hide_border=true&background=0D1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vrsebeatriz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=6e40c9&title_color=6e40c9&text_color=c9d1d9&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vrsebeatriz&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6e40c9&text_color=c9d1d9)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Open to opportunities · Let's build something meaningful</sub>
 </div>
