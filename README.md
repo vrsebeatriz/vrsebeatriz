@@ -5,8 +5,7 @@
 ### Software Engineer · Full Stack · AI Researcher
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-araújo-381b2b249)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anabaraujo009@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/vrsebeatriz?style=flat-square&color=6e40c9&label=followers)](https://github.com/vrsebeatriz)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=anabaraujo009@gmail.com)
 
 </div>
 
