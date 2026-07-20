@@ -1,11 +1,12 @@
 <div align="center">
 
 # Beatriz Araújo
-
-### Software Engineer · Full Stack · AI Researcher
+### Computer Science Student · Full Stack · AI & Security Research
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-araújo-381b2b249)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=anabaraujo009@gmail.com)
+
+**Open to junior software engineering roles** — see projects below
 
 </div>
 
@@ -13,12 +14,12 @@
 
 ## About
 
-Computer Science student at **UERN** (final semester), building production-grade Full Stack and Mobile solutions while conducting research at the intersection of **Artificial Intelligence** and **Cybersecurity**.
+Final-semester Computer Science student at **UERN**, building full-stack and mobile applications while doing PIBIC research at the intersection of **NLP/AI** and **cybersecurity**.
 
-- 🎓 B.Sc. Computer Science — Universidade do Estado do Rio Grande do Norte
-- 💻 Engineering with **React Native · TypeScript · Node.js · Java**
-- 🔬 Researching **Deep Learning & NLP** applied to healthcare and malware analysis
-- 🔐 Developing AI-driven tools for cybersecurity threat analysis
+- 🎓 B.Sc. Computer Science — Universidade do Estado do Rio Grande do Norte (final semester)
+- 💻 Building with **React · React Native · TypeScript · Node.js · Java**
+- 🔬 PIBIC research: **NLP & OWL ontologies** applied to a health-diagnostic chatbot, LGPD-compliant
+- 🔐 Exploring AI-assisted tooling for security analysis (SAST/SCA)
 
 ---
 
@@ -26,9 +27,9 @@ Computer Science student at **UERN** (final semester), building production-grade
 
 | Project | Description | Stack |
 |---|---|---|
-| [**CypherGuard AI**](#) | AI-powered cybersecurity solution for code deobfuscation and threat analysis | Python · Deep Learning |
-| [**TaskFlow Pro API**](#) | High-performance API for scalable task flow management | Node.js · PostgreSQL |
-| [**Web Portfolio – Beauty**](#) | Professional website combining visagism techniques with modern web development | React · TypeScript |
+| [**CypherGuard AI**](https://github.com/vrsebeatriz/CypherGuard-IA) | SAST + SCA tool with LLM integration for vulnerability detection in source code | Python · LLM integration |
+| [**VaultScan**](https://github.com/vrsebeatriz/VaultScan) | Scanner for exposed secrets and IaC misconfigurations in Git repositories | Python |
+| [**TaskFlow Pro**](https://github.com/vrsebeatriz/TaskFlow) | Task management platform with Google Gemini integration for AI-assisted task breakdown | Node.js · PostgreSQL · Gemini API |
 
 ---
 
@@ -66,10 +67,4 @@ Computer Science student at **UERN** (final semester), building production-grade
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vrsebeatriz&bg_color=0D1117&color=6e40c9&line=6e40c9&point=ffffff&area=true&hide_border=true)](https://github.com/vrsebeatriz)
 
-</div>
-
----
-
-<div align="center">
-<sub>Open to opportunities · Let's build something meaningful</sub>
 </div>
